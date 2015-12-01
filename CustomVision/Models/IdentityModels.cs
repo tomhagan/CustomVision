@@ -25,7 +25,8 @@ namespace CustomVision.Models
         {
         }
 
-        /* OnModelCreating Notes
+        /* TPH test note
+         * OnModelCreating Notes
          * This override changes the names of the default authentication tables.
          * By default, they are prefixed with AspNet and I wanted them to be more generic.
          */
